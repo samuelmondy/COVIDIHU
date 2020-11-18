@@ -1,0 +1,2 @@
+#tableau correspondance biosample et code IHU
+awk '{if($0~"External"){print a,b;a=$2}}{if($0~"sample name"){b=$2}}' covid
