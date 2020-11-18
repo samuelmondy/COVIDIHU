@@ -1,0 +1,3197 @@
+LOCUS       CADIOI020000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOI000000000
+VERSION     CADIOI000000000.2
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660146
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     On Sep 25, 2020 this sequence version replaced CADIOI000000000.1.
+            The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOI000000000.
+            This version of the project (02) has the accession number
+            CADIOI020000000, and consists of sequences
+            CADIOI020000001-CADIOI020000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOI020000001-CADIOI020000004
+WGS_SCAFLD  LR794685
+//
+
+LOCUS       CADIOY010000000           29 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOY000000000
+VERSION     CADIOY000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786485
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 29)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOY000000000.
+            This version of the project (01) has the accession number
+            CADIOY010000000, and consists of sequences
+            CADIOY010000001-CADIOY010000029.
+FEATURES             Location/Qualifiers
+     source          1..29
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOY010000001-CADIOY010000029
+WGS_SCAFLD  LR794635
+//
+
+LOCUS       CADIPH010000000           24 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIPH000000000
+VERSION     CADIPH000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786522
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 24)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIPH000000000.
+            This version of the project (01) has the accession number
+            CADIPH010000000, and consists of sequences
+            CADIPH010000001-CADIPH010000024.
+FEATURES             Location/Qualifiers
+     source          1..24
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIPH010000001-CADIPH010000024
+WGS_SCAFLD  LR794674
+//
+
+LOCUS       CADIMY010000000           20 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMY000000000
+VERSION     CADIMY000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660016
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 20)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMY000000000.
+            This version of the project (01) has the accession number
+            CADIMY010000000, and consists of sequences
+            CADIMY010000001-CADIMY010000020.
+FEATURES             Location/Qualifiers
+     source          1..20
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMY010000001-CADIMY010000020
+WGS_SCAFLD  LR794457
+//
+
+LOCUS       CADIOO010000000           21 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOO000000000
+VERSION     CADIOO000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786478
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 21)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOO000000000.
+            This version of the project (01) has the accession number
+            CADIOO010000000, and consists of sequences
+            CADIOO010000001-CADIOO010000021.
+FEATURES             Location/Qualifiers
+     source          1..21
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOO010000001-CADIOO010000021
+WGS_SCAFLD  LR794612
+//
+
+LOCUS       CADINH010000000           18 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINH000000000
+VERSION     CADINH000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660058
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 18)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINH000000000.
+            This version of the project (01) has the accession number
+            CADINH010000000, and consists of sequences
+            CADINH010000001-CADINH010000018.
+FEATURES             Location/Qualifiers
+     source          1..18
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINH010000001-CADINH010000018
+WGS_SCAFLD  LR794489
+//
+
+LOCUS       CADIMW010000000           15 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMW000000000
+VERSION     CADIMW000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660022
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 15)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMW000000000.
+            This version of the project (01) has the accession number
+            CADIMW010000000, and consists of sequences
+            CADIMW010000001-CADIMW010000015.
+FEATURES             Location/Qualifiers
+     source          1..15
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMW010000001-CADIMW010000015
+WGS_SCAFLD  LR794455
+//
+
+LOCUS       CADILX010000000           12 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADILX000000000
+VERSION     CADILX000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659985
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 12)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADILX000000000.
+            This version of the project (01) has the accession number
+            CADILX010000000, and consists of sequences
+            CADILX010000001-CADILX010000012.
+FEATURES             Location/Qualifiers
+     source          1..12
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADILX010000001-CADILX010000012
+WGS_SCAFLD  LR794394
+//
+
+LOCUS       CADIMZ010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMZ000000000
+VERSION     CADIMZ000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660032
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMZ000000000.
+            This version of the project (01) has the accession number
+            CADIMZ010000000, and consists of sequences
+            CADIMZ010000001-CADIMZ010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMZ010000001-CADIMZ010000004
+WGS_SCAFLD  LR794463
+//
+
+LOCUS       CADIOB010000000            5 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOB000000000
+VERSION     CADIOB000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660143
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 5)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOB000000000.
+            This version of the project (01) has the accession number
+            CADIOB010000000, and consists of sequences
+            CADIOB010000001-CADIOB010000005.
+FEATURES             Location/Qualifiers
+     source          1..5
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOB010000001-CADIOB010000005
+WGS_SCAFLD  LR794585
+//
+
+LOCUS       CADIND010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIND000000000
+VERSION     CADIND000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786452
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIND000000000.
+            This version of the project (01) has the accession number
+            CADIND010000000, and consists of sequences
+            CADIND010000001-CADIND010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIND010000001-CADIND010000003
+WGS_SCAFLD  LR794475
+//
+
+LOCUS       CADIMI010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMI000000000
+VERSION     CADIMI000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659999
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMI000000000.
+            This version of the project (01) has the accession number
+            CADIMI010000000, and consists of sequences
+            CADIMI010000001-CADIMI010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMI010000001-CADIMI010000004
+WGS_SCAFLD  LR794428
+//
+
+LOCUS       CADIMT010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMT000000000
+VERSION     CADIMT000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660026
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMT000000000.
+            This version of the project (01) has the accession number
+            CADIMT010000000, and consists of sequences
+            CADIMT010000001-CADIMT010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMT010000001-CADIMT010000003
+WGS_SCAFLD  LR794452
+//
+
+LOCUS       CADIMX010000000           13 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMX000000000
+VERSION     CADIMX000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660023
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 13)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMX000000000.
+            This version of the project (01) has the accession number
+            CADIMX010000000, and consists of sequences
+            CADIMX010000001-CADIMX010000013.
+FEATURES             Location/Qualifiers
+     source          1..13
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMX010000001-CADIMX010000013
+WGS_SCAFLD  LR794456
+//
+
+LOCUS       CADIOS010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOS000000000
+VERSION     CADIOS000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660162
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOS000000000.
+            This version of the project (01) has the accession number
+            CADIOS010000000, and consists of sequences
+            CADIOS010000001-CADIOS010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOS010000001-CADIOS010000003
+WGS_SCAFLD  LR794617
+//
+
+LOCUS       CADIMC010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMC000000000
+VERSION     CADIMC000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659952
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMC000000000.
+            This version of the project (01) has the accession number
+            CADIMC010000000, and consists of sequences
+            CADIMC010000001-CADIMC010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMC010000001-CADIMC010000002
+WGS_SCAFLD  LR794403
+//
+
+LOCUS       CADINL010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINL000000000
+VERSION     CADINL000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660087
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINL000000000.
+            This version of the project (01) has the accession number
+            CADINL010000000, and consists of sequences
+            CADINL010000001-CADINL010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINL010000001-CADINL010000003
+WGS_SCAFLD  LR794520
+//
+
+LOCUS       CADIPB010000000           14 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIPB000000000
+VERSION     CADIPB000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786495
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 14)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIPB000000000.
+            This version of the project (01) has the accession number
+            CADIPB010000000, and consists of sequences
+            CADIPB010000001-CADIPB010000014.
+FEATURES             Location/Qualifiers
+     source          1..14
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIPB010000001-CADIPB010000014
+WGS_SCAFLD  LR794644
+//
+
+LOCUS       CADIMG010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMG000000000
+VERSION     CADIMG000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659957
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMG000000000.
+            This version of the project (01) has the accession number
+            CADIMG010000000, and consists of sequences
+            CADIMG010000001-CADIMG010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMG010000001-CADIMG010000002
+WGS_SCAFLD  LR794416
+//
+
+LOCUS       CADIOF010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOF000000000
+VERSION     CADIOF000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660149
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOF000000000.
+            This version of the project (01) has the accession number
+            CADIOF010000000, and consists of sequences
+            CADIOF010000001-CADIOF010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOF010000001-CADIOF010000002
+WGS_SCAFLD  LR794594
+//
+
+LOCUS       CADION010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADION000000000
+VERSION     CADION000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786479
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADION000000000.
+            This version of the project (01) has the accession number
+            CADION010000000, and consists of sequences
+            CADION010000001-CADION010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADION010000001-CADION010000002
+WGS_SCAFLD  LR794608
+//
+
+LOCUS       CADINF010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINF000000000
+VERSION     CADINF000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660041
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINF000000000.
+            This version of the project (01) has the accession number
+            CADINF010000000, and consists of sequences
+            CADINF010000001-CADINF010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINF010000001-CADINF010000002
+WGS_SCAFLD  LR794477
+//
+
+LOCUS       CADINY010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINY000000000
+VERSION     CADINY000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660127
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINY000000000.
+            This version of the project (01) has the accession number
+            CADINY010000000, and consists of sequences
+            CADINY010000001-CADINY010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINY010000001-CADINY010000002
+WGS_SCAFLD  LR794576
+//
+
+LOCUS       CADINB010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINB000000000
+VERSION     CADINB000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660037
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINB000000000.
+            This version of the project (01) has the accession number
+            CADINB010000000, and consists of sequences
+            CADINB010000001-CADINB010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINB010000001-CADINB010000002
+WGS_SCAFLD  LR794472
+//
+
+LOCUS       CADILW010000000           12 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADILW000000000
+VERSION     CADILW000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659983
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 12)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADILW000000000.
+            This version of the project (01) has the accession number
+            CADILW010000000, and consists of sequences
+            CADILW010000001-CADILW010000012.
+FEATURES             Location/Qualifiers
+     source          1..12
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADILW010000001-CADILW010000012
+WGS_SCAFLD  LR794393
+//
+
+LOCUS       CADIOC010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOC000000000
+VERSION     CADIOC000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660152
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOC000000000.
+            This version of the project (01) has the accession number
+            CADIOC010000000, and consists of sequences
+            CADIOC010000001-CADIOC010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOC010000001-CADIOC010000002
+WGS_SCAFLD  LR794586
+//
+
+LOCUS       CADIOQ010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOQ000000000
+VERSION     CADIOQ000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786481
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOQ000000000.
+            This version of the project (01) has the accession number
+            CADIOQ010000000, and consists of sequences
+            CADIOQ010000001-CADIOQ010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOQ010000001-CADIOQ010000002
+WGS_SCAFLD  LR794615
+//
+
+LOCUS       CADINS010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINS000000000
+VERSION     CADINS000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660106
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINS000000000.
+            This version of the project (01) has the accession number
+            CADINS010000000, and consists of sequences
+            CADINS010000001-CADINS010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINS010000001-CADINS010000002
+WGS_SCAFLD  LR794553
+//
+
+LOCUS       CADIML010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIML000000000
+VERSION     CADIML000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660001
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIML000000000.
+            This version of the project (01) has the accession number
+            CADIML010000000, and consists of sequences
+            CADIML010000001-CADIML010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIML010000001-CADIML010000002
+WGS_SCAFLD  LR794436
+//
+
+LOCUS       CADINR010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINR000000000
+VERSION     CADINR000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660107
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINR000000000.
+            This version of the project (01) has the accession number
+            CADINR010000000, and consists of sequences
+            CADINR010000001-CADINR010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINR010000001-CADINR010000002
+WGS_SCAFLD  LR794547
+//
+
+LOCUS       CADINI010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINI000000000
+VERSION     CADINI000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660062
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINI000000000.
+            This version of the project (01) has the accession number
+            CADINI010000000, and consists of sequences
+            CADINI010000001-CADINI010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINI010000001-CADINI010000002
+WGS_SCAFLD  LR794497
+//
+
+LOCUS       CADIMA010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMA000000000
+VERSION     CADIMA000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659980
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMA000000000.
+            This version of the project (01) has the accession number
+            CADIMA010000000, and consists of sequences
+            CADIMA010000001-CADIMA010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMA010000001-CADIMA010000002
+WGS_SCAFLD  LR794397
+//
+
+LOCUS       CADINC010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINC000000000
+VERSION     CADINC000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660036
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINC000000000.
+            This version of the project (01) has the accession number
+            CADINC010000000, and consists of sequences
+            CADINC010000001-CADINC010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINC010000001-CADINC010000002
+WGS_SCAFLD  LR794474
+//
+
+LOCUS       CADIMH010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMH000000000
+VERSION     CADIMH000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659970
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMH000000000.
+            This version of the project (01) has the accession number
+            CADIMH010000000, and consists of sequences
+            CADIMH010000001-CADIMH010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMH010000001-CADIMH010000002
+WGS_SCAFLD  LR794419
+//
+
+LOCUS       CADIPC010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIPC000000000
+VERSION     CADIPC000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786504
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIPC000000000.
+            This version of the project (01) has the accession number
+            CADIPC010000000, and consists of sequences
+            CADIPC010000001-CADIPC010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIPC010000001-CADIPC010000002
+WGS_SCAFLD  LR794656
+//
+
+LOCUS       CADIOE010000000           10 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOE000000000
+VERSION     CADIOE000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660145
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 10)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOE000000000.
+            This version of the project (01) has the accession number
+            CADIOE010000000, and consists of sequences
+            CADIOE010000001-CADIOE010000010.
+FEATURES             Location/Qualifiers
+     source          1..10
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOE010000001-CADIOE010000010
+WGS_SCAFLD  LR794590
+//
+
+LOCUS       CADIOU010000000            9 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOU000000000
+VERSION     CADIOU000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786482
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 9)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOU000000000.
+            This version of the project (01) has the accession number
+            CADIOU010000000, and consists of sequences
+            CADIOU010000001-CADIOU010000009.
+FEATURES             Location/Qualifiers
+     source          1..9
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOU010000001-CADIOU010000009
+WGS_SCAFLD  LR794622
+//
+
+LOCUS       CADIOV010000000            9 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOV000000000
+VERSION     CADIOV000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6796854
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 9)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOV000000000.
+            This version of the project (01) has the accession number
+            CADIOV010000000, and consists of sequences
+            CADIOV010000001-CADIOV010000009.
+FEATURES             Location/Qualifiers
+     source          1..9
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOV010000001-CADIOV010000009
+WGS_SCAFLD  LR794623
+//
+
+LOCUS       CADIOX010000000           11 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOX000000000
+VERSION     CADIOX000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6787348
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 11)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOX000000000.
+            This version of the project (01) has the accession number
+            CADIOX010000000, and consists of sequences
+            CADIOX010000001-CADIOX010000011.
+FEATURES             Location/Qualifiers
+     source          1..11
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOX010000001-CADIOX010000011
+WGS_SCAFLD  LR794634
+//
+
+LOCUS       CADIOT010000000           11 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOT000000000
+VERSION     CADIOT000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786483
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 11)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOT000000000.
+            This version of the project (01) has the accession number
+            CADIOT010000000, and consists of sequences
+            CADIOT010000001-CADIOT010000011.
+FEATURES             Location/Qualifiers
+     source          1..11
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOT010000001-CADIOT010000011
+WGS_SCAFLD  LR794618
+//
+
+LOCUS       CADILT010000000           12 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADILT000000000
+VERSION     CADILT000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659991
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 12)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADILT000000000.
+            This version of the project (01) has the accession number
+            CADILT010000000, and consists of sequences
+            CADILT010000001-CADILT010000012.
+FEATURES             Location/Qualifiers
+     source          1..12
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADILT010000001-CADILT010000012
+WGS_SCAFLD  LR794378
+//
+
+LOCUS       CADING010000000           11 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADING000000000
+VERSION     CADING000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660048
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 11)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADING000000000.
+            This version of the project (01) has the accession number
+            CADING010000000, and consists of sequences
+            CADING010000001-CADING010000011.
+FEATURES             Location/Qualifiers
+     source          1..11
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADING010000001-CADING010000011
+WGS_SCAFLD  LR794484
+//
+
+LOCUS       CADIOP010000000            9 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOP000000000
+VERSION     CADIOP000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786476
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 9)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOP000000000.
+            This version of the project (01) has the accession number
+            CADIOP010000000, and consists of sequences
+            CADIOP010000001-CADIOP010000009.
+FEATURES             Location/Qualifiers
+     source          1..9
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOP010000001-CADIOP010000009
+WGS_SCAFLD  LR794614
+//
+
+LOCUS       CADINW010000000            9 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINW000000000
+VERSION     CADINW000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786463
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 9)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINW000000000.
+            This version of the project (01) has the accession number
+            CADINW010000000, and consists of sequences
+            CADINW010000001-CADINW010000009.
+FEATURES             Location/Qualifiers
+     source          1..9
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINW010000001-CADINW010000009
+WGS_SCAFLD  LR794568
+//
+
+LOCUS       CADIMD010000000            9 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMD000000000
+VERSION     CADIMD000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659948
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 9)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMD000000000.
+            This version of the project (01) has the accession number
+            CADIMD010000000, and consists of sequences
+            CADIMD010000001-CADIMD010000009.
+FEATURES             Location/Qualifiers
+     source          1..9
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMD010000001-CADIMD010000009
+WGS_SCAFLD  LR794404
+//
+
+LOCUS       CADIMM010000000           10 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMM000000000
+VERSION     CADIMM000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660007
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 10)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMM000000000.
+            This version of the project (01) has the accession number
+            CADIMM010000000, and consists of sequences
+            CADIMM010000001-CADIMM010000010.
+FEATURES             Location/Qualifiers
+     source          1..10
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMM010000001-CADIMM010000010
+WGS_SCAFLD  LR794438
+//
+
+LOCUS       CADIMV010000000            9 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMV000000000
+VERSION     CADIMV000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660025
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 9)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMV000000000.
+            This version of the project (01) has the accession number
+            CADIMV010000000, and consists of sequences
+            CADIMV010000001-CADIMV010000009.
+FEATURES             Location/Qualifiers
+     source          1..9
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMV010000001-CADIMV010000009
+WGS_SCAFLD  LR794454
+//
+
+LOCUS       CADIOR010000000            8 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOR000000000
+VERSION     CADIOR000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786477
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 8)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOR000000000.
+            This version of the project (01) has the accession number
+            CADIOR010000000, and consists of sequences
+            CADIOR010000001-CADIOR010000008.
+FEATURES             Location/Qualifiers
+     source          1..8
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOR010000001-CADIOR010000008
+WGS_SCAFLD  LR794616
+//
+
+LOCUS       CADIOZ010000000            8 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOZ000000000
+VERSION     CADIOZ000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660167
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 8)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOZ000000000.
+            This version of the project (01) has the accession number
+            CADIOZ010000000, and consists of sequences
+            CADIOZ010000001-CADIOZ010000008.
+FEATURES             Location/Qualifiers
+     source          1..8
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOZ010000001-CADIOZ010000008
+WGS_SCAFLD  LR794636
+//
+
+LOCUS       CADIOD010000000            7 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOD000000000
+VERSION     CADIOD000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786468
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 7)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOD000000000.
+            This version of the project (01) has the accession number
+            CADIOD010000000, and consists of sequences
+            CADIOD010000001-CADIOD010000007.
+FEATURES             Location/Qualifiers
+     source          1..7
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOD010000001-CADIOD010000007
+WGS_SCAFLD  LR794589
+//
+
+LOCUS       CADINZ010000000            7 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINZ000000000
+VERSION     CADINZ000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786464
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 7)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINZ000000000.
+            This version of the project (01) has the accession number
+            CADINZ010000000, and consists of sequences
+            CADINZ010000001-CADINZ010000007.
+FEATURES             Location/Qualifiers
+     source          1..7
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINZ010000001-CADINZ010000007
+WGS_SCAFLD  LR794579
+//
+
+LOCUS       CADIOM010000000            7 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOM000000000
+VERSION     CADIOM000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786471
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 7)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOM000000000.
+            This version of the project (01) has the accession number
+            CADIOM010000000, and consists of sequences
+            CADIOM010000001-CADIOM010000007.
+FEATURES             Location/Qualifiers
+     source          1..7
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOM010000001-CADIOM010000007
+WGS_SCAFLD  LR794604
+//
+
+LOCUS       CADINU010000000            7 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINU000000000
+VERSION     CADINU000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6787345
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 7)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINU000000000.
+            This version of the project (01) has the accession number
+            CADINU010000000, and consists of sequences
+            CADINU010000001-CADINU010000007.
+FEATURES             Location/Qualifiers
+     source          1..7
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINU010000001-CADINU010000007
+WGS_SCAFLD  LR794563
+//
+
+LOCUS       CADILY010000000            7 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADILY000000000
+VERSION     CADILY000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659988
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 7)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADILY000000000.
+            This version of the project (01) has the accession number
+            CADILY010000000, and consists of sequences
+            CADILY010000001-CADILY010000007.
+FEATURES             Location/Qualifiers
+     source          1..7
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADILY010000001-CADILY010000007
+WGS_SCAFLD  LR794395
+//
+
+LOCUS       CADINQ010000000            7 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINQ000000000
+VERSION     CADINQ000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660103
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 7)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINQ000000000.
+            This version of the project (01) has the accession number
+            CADINQ010000000, and consists of sequences
+            CADINQ010000001-CADINQ010000007.
+FEATURES             Location/Qualifiers
+     source          1..7
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINQ010000001-CADINQ010000007
+WGS_SCAFLD  LR794543
+//
+
+LOCUS       CADINE010000000            5 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINE000000000
+VERSION     CADINE000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660038
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 5)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINE000000000.
+            This version of the project (01) has the accession number
+            CADINE010000000, and consists of sequences
+            CADINE010000001-CADINE010000005.
+FEATURES             Location/Qualifiers
+     source          1..5
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINE010000001-CADINE010000005
+WGS_SCAFLD  LR794476
+//
+
+LOCUS       CADILZ010000000            6 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADILZ000000000
+VERSION     CADILZ000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659989
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 6)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADILZ000000000.
+            This version of the project (01) has the accession number
+            CADILZ010000000, and consists of sequences
+            CADILZ010000001-CADILZ010000006.
+FEATURES             Location/Qualifiers
+     source          1..6
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADILZ010000001-CADILZ010000006
+WGS_SCAFLD  LR794396
+//
+
+LOCUS       CADIPE010000000            6 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIPE000000000
+VERSION     CADIPE000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786521
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 6)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIPE000000000.
+            This version of the project (01) has the accession number
+            CADIPE010000000, and consists of sequences
+            CADIPE010000001-CADIPE010000006.
+FEATURES             Location/Qualifiers
+     source          1..6
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIPE010000001-CADIPE010000006
+WGS_SCAFLD  LR794664
+//
+
+LOCUS       CADINX010000000            6 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINX000000000
+VERSION     CADINX000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660135
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 6)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINX000000000.
+            This version of the project (01) has the accession number
+            CADINX010000000, and consists of sequences
+            CADINX010000001-CADINX010000006.
+FEATURES             Location/Qualifiers
+     source          1..6
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINX010000001-CADINX010000006
+WGS_SCAFLD  LR794574
+//
+
+LOCUS       CADIOA010000000            5 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOA000000000
+VERSION     CADIOA000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786467
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 5)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOA000000000.
+            This version of the project (01) has the accession number
+            CADIOA010000000, and consists of sequences
+            CADIOA010000001-CADIOA010000005.
+FEATURES             Location/Qualifiers
+     source          1..5
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOA010000001-CADIOA010000005
+WGS_SCAFLD  LR794583
+//
+
+LOCUS       CADIMB010000000            5 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMB000000000
+VERSION     CADIMB000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659947
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 5)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMB000000000.
+            This version of the project (01) has the accession number
+            CADIMB010000000, and consists of sequences
+            CADIMB010000001-CADIMB010000005.
+FEATURES             Location/Qualifiers
+     source          1..5
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMB010000001-CADIMB010000005
+WGS_SCAFLD  LR794402
+//
+
+LOCUS       CADIOK010000000            6 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOK000000000
+VERSION     CADIOK000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786473
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 6)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOK000000000.
+            This version of the project (01) has the accession number
+            CADIOK010000000, and consists of sequences
+            CADIOK010000001-CADIOK010000006.
+FEATURES             Location/Qualifiers
+     source          1..6
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOK010000001-CADIOK010000006
+WGS_SCAFLD  LR794600
+//
+
+LOCUS       CADINP010000000            8 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINP000000000
+VERSION     CADINP000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660092
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 8)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINP000000000.
+            This version of the project (01) has the accession number
+            CADINP010000000, and consists of sequences
+            CADINP010000001-CADINP010000008.
+FEATURES             Location/Qualifiers
+     source          1..8
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINP010000001-CADINP010000008
+WGS_SCAFLD  LR794534
+//
+
+LOCUS       CADINV010000000            5 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINV000000000
+VERSION     CADINV000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660132
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 5)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINV000000000.
+            This version of the project (01) has the accession number
+            CADINV010000000, and consists of sequences
+            CADINV010000001-CADINV010000005.
+FEATURES             Location/Qualifiers
+     source          1..5
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINV010000001-CADINV010000005
+WGS_SCAFLD  LR794567
+//
+
+LOCUS       CADIPG010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIPG000000000
+VERSION     CADIPG000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786523
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIPG000000000.
+            This version of the project (01) has the accession number
+            CADIPG010000000, and consists of sequences
+            CADIPG010000001-CADIPG010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIPG010000001-CADIPG010000004
+WGS_SCAFLD  LR794672
+//
+
+LOCUS       CADIMK010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMK000000000
+VERSION     CADIMK000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660002
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMK000000000.
+            This version of the project (01) has the accession number
+            CADIMK010000000, and consists of sequences
+            CADIMK010000001-CADIMK010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMK010000001-CADIMK010000004
+WGS_SCAFLD  LR794435
+//
+
+LOCUS       CADIMS010000000            6 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMS000000000
+VERSION     CADIMS000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660021
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 6)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMS000000000.
+            This version of the project (01) has the accession number
+            CADIMS010000000, and consists of sequences
+            CADIMS010000001-CADIMS010000006.
+FEATURES             Location/Qualifiers
+     source          1..6
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMS010000001-CADIMS010000006
+WGS_SCAFLD  LR794451
+//
+
+LOCUS       CADIOL010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOL000000000
+VERSION     CADIOL000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786470
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOL000000000.
+            This version of the project (01) has the accession number
+            CADIOL010000000, and consists of sequences
+            CADIOL010000001-CADIOL010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOL010000001-CADIOL010000004
+WGS_SCAFLD  LR794601
+//
+
+LOCUS       CADIOH010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOH000000000
+VERSION     CADIOH000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660144
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOH000000000.
+            This version of the project (01) has the accession number
+            CADIOH010000000, and consists of sequences
+            CADIOH010000001-CADIOH010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOH010000001-CADIOH010000004
+WGS_SCAFLD  LR794596
+//
+
+LOCUS       CADIMU010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMU000000000
+VERSION     CADIMU000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660024
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMU000000000.
+            This version of the project (01) has the accession number
+            CADIMU010000000, and consists of sequences
+            CADIMU010000001-CADIMU010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMU010000001-CADIMU010000004
+WGS_SCAFLD  LR794453
+//
+
+LOCUS       CADIPI010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIPI000000000
+VERSION     CADIPI000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786540
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIPI000000000.
+            This version of the project (01) has the accession number
+            CADIPI010000000, and consists of sequences
+            CADIPI010000001-CADIPI010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIPI010000001-CADIPI010000004
+WGS_SCAFLD  LR794683
+//
+
+LOCUS       CADIMP010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMP000000000
+VERSION     CADIMP000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660012
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMP000000000.
+            This version of the project (01) has the accession number
+            CADIMP010000000, and consists of sequences
+            CADIMP010000001-CADIMP010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMP010000001-CADIMP010000004
+WGS_SCAFLD  LR794445
+//
+
+LOCUS       CADIMJ010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMJ000000000
+VERSION     CADIMJ000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660000
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMJ000000000.
+            This version of the project (01) has the accession number
+            CADIMJ010000000, and consists of sequences
+            CADIMJ010000001-CADIMJ010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMJ010000001-CADIMJ010000003
+WGS_SCAFLD  LR794429
+//
+
+LOCUS       CADINK010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINK000000000
+VERSION     CADINK000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660073
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINK000000000.
+            This version of the project (01) has the accession number
+            CADINK010000000, and consists of sequences
+            CADINK010000001-CADINK010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINK010000001-CADINK010000004
+WGS_SCAFLD  LR794515
+//
+
+LOCUS       CADINT010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINT000000000
+VERSION     CADINT000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660118
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINT000000000.
+            This version of the project (01) has the accession number
+            CADINT010000000, and consists of sequences
+            CADINT010000001-CADINT010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINT010000001-CADINT010000003
+WGS_SCAFLD  LR794557
+//
+
+LOCUS       CADINN010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINN000000000
+VERSION     CADINN000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660081
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINN000000000.
+            This version of the project (01) has the accession number
+            CADINN010000000, and consists of sequences
+            CADINN010000001-CADINN010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINN010000001-CADINN010000004
+WGS_SCAFLD  LR794524
+//
+
+LOCUS       CADIPD010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIPD000000000
+VERSION     CADIPD000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786520
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIPD000000000.
+            This version of the project (01) has the accession number
+            CADIPD010000000, and consists of sequences
+            CADIPD010000001-CADIPD010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIPD010000001-CADIPD010000003
+WGS_SCAFLD  LR794663
+//
+
+LOCUS       CADIMF010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMF000000000
+VERSION     CADIMF000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659961
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMF000000000.
+            This version of the project (01) has the accession number
+            CADIMF010000000, and consists of sequences
+            CADIMF010000001-CADIMF010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMF010000001-CADIMF010000004
+WGS_SCAFLD  LR794415
+//
+
+LOCUS       CADIPA010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIPA000000000
+VERSION     CADIPA000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786499
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIPA000000000.
+            This version of the project (01) has the accession number
+            CADIPA010000000, and consists of sequences
+            CADIPA010000001-CADIPA010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIPA010000001-CADIPA010000003
+WGS_SCAFLD  LR794640
+//
+
+LOCUS       CADIOW010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOW000000000
+VERSION     CADIOW000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660165
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOW000000000.
+            This version of the project (01) has the accession number
+            CADIOW010000000, and consists of sequences
+            CADIOW010000001-CADIOW010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOW010000001-CADIOW010000003
+WGS_SCAFLD  LR794624
+//
+
+LOCUS       CADIMR010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMR000000000
+VERSION     CADIMR000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660018
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMR000000000.
+            This version of the project (01) has the accession number
+            CADIMR010000000, and consists of sequences
+            CADIMR010000001-CADIMR010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMR010000001-CADIMR010000003
+WGS_SCAFLD  LR794450
+//
+
+LOCUS       CADINM010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINM000000000
+VERSION     CADINM000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660082
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINM000000000.
+            This version of the project (01) has the accession number
+            CADINM010000000, and consists of sequences
+            CADINM010000001-CADINM010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINM010000001-CADINM010000003
+WGS_SCAFLD  LR794521
+//
+
+LOCUS       CADILV010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADILV000000000
+VERSION     CADILV000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659984
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADILV000000000.
+            This version of the project (01) has the accession number
+            CADILV010000000, and consists of sequences
+            CADILV010000001-CADILV010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADILV010000001-CADILV010000003
+WGS_SCAFLD  LR794392
+//
+
+LOCUS       CADIPF010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIPF000000000
+VERSION     CADIPF000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786531
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIPF000000000.
+            This version of the project (01) has the accession number
+            CADIPF010000000, and consists of sequences
+            CADIPF010000001-CADIPF010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIPF010000001-CADIPF010000003
+WGS_SCAFLD  LR794669
+//
+
+LOCUS       CADIMQ010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMQ000000000
+VERSION     CADIMQ000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660019
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMQ000000000.
+            This version of the project (01) has the accession number
+            CADIMQ010000000, and consists of sequences
+            CADIMQ010000001-CADIMQ010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMQ010000001-CADIMQ010000004
+WGS_SCAFLD  LR794447
+//
+
+LOCUS       CADINO010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINO000000000
+VERSION     CADINO000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660088
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINO000000000.
+            This version of the project (01) has the accession number
+            CADINO010000000, and consists of sequences
+            CADINO010000001-CADINO010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINO010000001-CADINO010000002
+WGS_SCAFLD  LR794533
+//
+
+LOCUS       CADIOJ010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOJ000000000
+VERSION     CADIOJ000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6786472
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOJ000000000.
+            This version of the project (01) has the accession number
+            CADIOJ010000000, and consists of sequences
+            CADIOJ010000001-CADIOJ010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOJ010000001-CADIOJ010000002
+WGS_SCAFLD  LR794599
+//
+
+LOCUS       CADIMN010000000            4 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMN000000000
+VERSION     CADIMN000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660010
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 4)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMN000000000.
+            This version of the project (01) has the accession number
+            CADIMN010000000, and consists of sequences
+            CADIMN010000001-CADIMN010000004.
+FEATURES             Location/Qualifiers
+     source          1..4
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMN010000001-CADIMN010000004
+WGS_SCAFLD  LR794439
+//
+
+LOCUS       CADIME010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIME000000000
+VERSION     CADIME000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659964
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIME000000000.
+            This version of the project (01) has the accession number
+            CADIME010000000, and consists of sequences
+            CADIME010000001-CADIME010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIME010000001-CADIME010000002
+WGS_SCAFLD  LR794413
+//
+
+LOCUS       CADINA010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINA000000000
+VERSION     CADINA000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660040
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINA000000000.
+            This version of the project (01) has the accession number
+            CADINA010000000, and consists of sequences
+            CADINA010000001-CADINA010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINA010000001-CADINA010000002
+WGS_SCAFLD  LR794468
+//
+
+LOCUS       CADILU010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADILU000000000
+VERSION     CADILU000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6659986
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADILU000000000.
+            This version of the project (01) has the accession number
+            CADILU010000000, and consists of sequences
+            CADILU010000001-CADILU010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADILU010000001-CADILU010000002
+WGS_SCAFLD  LR794379
+//
+
+LOCUS       CADINJ010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADINJ000000000
+VERSION     CADINJ000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660065
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADINJ000000000.
+            This version of the project (01) has the accession number
+            CADINJ010000000, and consists of sequences
+            CADINJ010000001-CADINJ010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADINJ010000001-CADINJ010000002
+WGS_SCAFLD  LR794499
+//
+
+LOCUS       CADIMO010000000            3 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIMO000000000
+VERSION     CADIMO000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660011
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 3)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIMO000000000.
+            This version of the project (01) has the accession number
+            CADIMO010000000, and consists of sequences
+            CADIMO010000001-CADIMO010000003.
+FEATURES             Location/Qualifiers
+     source          1..3
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIMO010000001-CADIMO010000003
+WGS_SCAFLD  LR794444
+//
+
+LOCUS       CADIOG010000000            2 rc    RNA     linear   VRL 23-SEP-2020
+DEFINITION  Severe acute respiratory syndrome coronavirus 2 isolate
+            nasopharyngeal, whole genome shotgun sequencing project.
+ACCESSION   CADIOG000000000
+VERSION     CADIOG000000000.1
+DBLINK      BioProject: PRJEB37722
+            BioSample: SAMEA6660150
+KEYWORDS    WGS.
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 2)
+  CONSRTM   IHU-MI Genome
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2020) URMITE, IHU - Mediterranee Infection, 19-21
+            Boulevard Jean Moulin, 13005 Marseille, France
+COMMENT     The Severe acute respiratory syndrome coronavirus 2 whole genome
+            shotgun (WGS) project has the project accession CADIOG000000000.
+            This version of the project (01) has the accession number
+            CADIOG010000000, and consists of sequences
+            CADIOG010000001-CADIOG010000002.
+FEATURES             Location/Qualifiers
+     source          1..2
+                     /organism="Severe acute respiratory syndrome coronavirus
+                     2"
+                     /mol_type="genomic RNA"
+                     /isolate="nasopharyngeal"
+                     /db_xref="taxon:2697049"
+WGS         CADIOG010000001-CADIOG010000002
+WGS_SCAFLD  LR794595
+//
+
